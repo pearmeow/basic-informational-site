@@ -6,12 +6,12 @@ A really barebones site built with Node.js
 Features
 --------
 
-- [ ] Different pages to be routed to
+- [x] Different pages to be routed to
 
 How to use this project
 -----------------------
 
-I genuinely have no idea yet
+Clone this repo and run `node index`.
 
 Credits
 -------
