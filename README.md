@@ -1,22 +1,19 @@
-React Project Template
-----------------------
+Basic Informational Site
+------------------------
 
-React Project Template
+A really barebones site built with Node.js
 
 Features
 --------
 
-- [ ] Wow, feature?
-- [ ] A really good feature
-- [ ] Good styling
+- [ ] Different pages to be routed to
 
 How to use this project
 -----------------------
 
-Visit the live link [here]()! Or clone the repo and run `npm install` and `npm run dev`.
+I genuinely have no idea yet
 
 Credits
 -------
 
-Me, me, me!  
-[Or maybe someone else?]()
+Me
