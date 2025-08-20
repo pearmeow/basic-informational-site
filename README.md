@@ -1,12 +1,12 @@
 Basic Informational Site
 ------------------------
 
-A really barebones site built with Node.js
+A really barebones site built with Node.js (and now express!)
 
 Features
 --------
 
-- [x] Different pages to be routed to
+- [x] Different pages to be routed to using express
 
 How to use this project
 -----------------------
